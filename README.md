@@ -65,7 +65,7 @@ While we would love to expand the model’s capabilities, the initial focus will
 
 ## Data Sources
 
-Data files will be stored in a public S3 bucket on AWS service. This will in turn communicate with AWS SageMaker.
+Our data files will be stored in a public S3 bucket on AWS service due to the number of images in our selected data sources. This will in turn communicate with AWS SageMaker.
 
 •	[Vehicle Speed](https://www.kaggle.com/datasets/tanishqdublish/vehcile-speed-data)
 
